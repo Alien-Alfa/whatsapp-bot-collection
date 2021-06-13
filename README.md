@@ -55,7 +55,7 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 
 
-## JulyBot by [Farhan-dqz](https://github.com/farhan-dqz)
+## JulieMwol by [Farhan-dqz](https://github.com/farhan-dqz)
 
 
   ### Simple Method
@@ -64,5 +64,6 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
 
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=JulieMwol)](https://github.com/Alien-alfa/wabot-aq)
 
 ##
