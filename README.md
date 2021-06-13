@@ -33,7 +33,7 @@ ________________________________________________________________________________
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 
 
 _______________________________________________________________________________________________________________
@@ -52,7 +52,7 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 _________________________________________________________________________________________________________________
 
 
@@ -67,5 +67,5 @@ ________________________________________________________________________________
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=JulieMwol)](https://github.com/Alien-alfa/wabot-aq)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 __________________________________________________________________________________________________________________
