@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h2> Les of a programmer and more like a bug fixer </h2>
+<h2> list of heroku deployable bots from diffrent creators </h2>
 </div>
 <p align="center">
   <a href="https://github.com/Alien-alfa">
