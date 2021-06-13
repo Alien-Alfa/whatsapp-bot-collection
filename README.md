@@ -22,7 +22,7 @@
 </p>
 
 
-## Whatsasena Duplicated 
+## Whatsasena Duplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
 
 
 ### Simple Method
