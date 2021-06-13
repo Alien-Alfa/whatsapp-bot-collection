@@ -20,7 +20,7 @@
 
   </a>
   
-  ## If you have other bot join our WhatsApp Group at
+  ## If you have other bot to add in this list join our WhatsApp Group at
   
 </p>
 
