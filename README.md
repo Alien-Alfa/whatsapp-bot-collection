@@ -32,8 +32,8 @@ ________________________________________________________________________________
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 
 
 _______________________________________________________________________________________________________________
