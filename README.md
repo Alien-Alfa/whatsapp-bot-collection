@@ -6,6 +6,9 @@
 <div align="center">
 <h2> list of heroku deployable bots from diffrent creators </h2>
 </div>
+  <a href="httsp://github.com/alien-alfa/PublicBot">
+    <img src="https://img.shields.io/github/repo-size/alien-alfa/whatsapp-bot-collection?color=purple&label=Repo%20total%20size&style=plastic">
+<p align="center">
 <p align="center">
   <a href="https://github.com/Alien-alfa">
     <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
