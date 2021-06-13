@@ -20,7 +20,11 @@
 
   </a>
 </p>
-
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/74794033?v=4" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+</div>
 _______________________________________________________________________________________________________________
 
 ## Whatsasena Duplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
