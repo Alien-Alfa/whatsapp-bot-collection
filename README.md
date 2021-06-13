@@ -106,6 +106,7 @@ ________________________________________________________________________________
 
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
