@@ -20,6 +20,9 @@
 
   </a>
 </p>
+## If you have other bot join our WhatsApp Group at
+[![join](/https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+
 <div align="left">
  #1 <a href="https://github.com/Alien-alfa/whatsapp-bot-collection/blob/main/README.md#whatsasena-duplicated-by-phaticusthiccy"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/74794033?v=4" alt=""> </a></span>
  #2 <a href="https://github.com/Alien-alfa/whatsapp-bot-collection/blob/main/README.md#public-bot-by-farhan-dqz"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
