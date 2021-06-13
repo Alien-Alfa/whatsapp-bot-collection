@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <a href="httsp://github.com/alien-alfa/PublicBot">
-    <img src="https://img.shields.io/github/repo-size/alien-alfa/whatsapp-bot-collection?color=purple&label=Repo%20total%20size&style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/alien-alfa/whatsapp-bot-collection?color=purple&label=Repo%20total%20size&style=for-the-badge&logo=github">
     </div>
 <p align="center">
 <p align="center">
