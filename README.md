@@ -33,6 +33,12 @@
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
 
+
+
+
+
+
+
 ## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
 
 
@@ -41,8 +47,12 @@
 
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
+
+
+
 
 
 ## JulyBot by [Farhan-dqz](https://github.com/farhan-dqz)
