@@ -98,7 +98,7 @@ ________________________________________________________________________________
   ## Whatsasena Duplicated by [Toxic-Devil](https://github.com/TOXIC-DEVIL)
   
   <div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
 </div>
   
 ### Simple Method
