@@ -64,21 +64,6 @@ ________________________________________________________________________________
 
 
 
-## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
-<div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
-</div>
-
-### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
-_________________________________________________________________________________________________________________
-
-
-
 ## JulieMwol by [Farhan-dqz](https://github.com/farhan-dqz)
 <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
@@ -110,3 +95,21 @@ ________________________________________________________________________________
   
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic)](https://github.com/Alien-alfa/wabot-aq)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+  _________________________________________________________________________________________________________________
+  
+  
+## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+</div>
+
+### Simple Method
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+_________________________________________________________________________________________________________________
+
