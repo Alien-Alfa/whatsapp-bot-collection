@@ -32,7 +32,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
 
-## Public bot by Farhan-dqz
+## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
 
 
 ### Simple Method
