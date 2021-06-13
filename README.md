@@ -34,7 +34,7 @@
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
 
 
-
+_______________________________________________________________________________________________________________
 
 
 
@@ -51,7 +51,7 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
 
-
+_________________________________________________________________________________________________________________
 
 
 
@@ -66,4 +66,4 @@ Repl.it is less stable. Try Termux instead for qrcode generation.
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=JulieMwol)](https://github.com/Alien-alfa/wabot-aq)
 
-##
+__________________________________________________________________________________________________________________
