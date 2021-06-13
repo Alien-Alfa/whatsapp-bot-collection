@@ -23,7 +23,7 @@
 <div align="left">
   <a href="https://github.com/Alien-alfa/whatsapp-bot-collection/blob/main/README.md#whatsasena-duplicated-by-phaticusthiccy"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/74794033?v=4" alt=""> </a></span>
   <a href="https://github.com/Alien-alfa/whatsapp-bot-collection/blob/main/README.md#public-bot-by-farhan-dqz"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+  <a href="https://github.com/Alien-alfa/whatsapp-bot-collection/blob/main/README.md#juliemwol-by-farhan-dqz"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
 </div>
 _______________________________________________________________________________________________________________
 
