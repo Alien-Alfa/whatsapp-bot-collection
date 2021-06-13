@@ -1,4 +1,4 @@
-## THERE ARE NO FILES JUST READ THIS README AND YOU WILL FIND ANSWERS
+## THERE ARE NO FILES IN THIS REPO. JUST READ THIS README AND YOU WILL FIND ANSWERS
 
 <div align="center">
   <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
