@@ -24,7 +24,9 @@
 _______________________________________________________________________________________________________________
 
 ## Whatsasena Duplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
-
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='50' height='50'  src="https://i.ibb.co/NxFN3q1/logo.jpg" alt=""> </a></span>
+</div>
 
 ### Simple Method
 
@@ -42,7 +44,9 @@ ________________________________________________________________________________
 
 
 ## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
-
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='50' height='50'  src="https://i.ibb.co/NxFN3q1/logo.jpg" alt=""> </a></span>
+</div>
 
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
