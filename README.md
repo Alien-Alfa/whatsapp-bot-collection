@@ -31,6 +31,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
 
 ## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
 
