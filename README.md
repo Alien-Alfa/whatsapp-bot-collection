@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 ## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
 <div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://i.ibb.co/NxFN3q1/logo.jpg" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
 </div>
 
 ### Simple Method
@@ -62,7 +62,9 @@ ________________________________________________________________________________
 
 
 ## JulieMwol by [Farhan-dqz](https://github.com/farhan-dqz)
-
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/83164448?v=4" alt=""> </a></span>
+</div>
 
   ### Simple Method
   
