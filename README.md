@@ -4,9 +4,8 @@ div align="center">
 </div>
 
 <div align="center">
-<h7> Les of a programmer and more like a bug fixer </h7>
+<h2> Les of a programmer and more like a bug fixer </h2>
 </div>
-##
 <p align="center">
   <a href="https://github.com/Alien-alfa">
     <img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
