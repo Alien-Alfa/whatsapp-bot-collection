@@ -115,11 +115,11 @@ ________________________________________________________________________________
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 _________________________________________________________________________________________________________________
-https://github.com/kappithannemo/WhatsAsenaDuplicated
+
   ## Whatsasena Duplicated by [kappithannemo](https://github.com/kappithannemo)
   
   <div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78903191?v=4" alt=""> </a></span>
 </div>
   
 ### Simple Method
@@ -131,3 +131,7 @@ https://github.com/kappithannemo/WhatsAsenaDuplicated
   
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kappithannemo&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+_________________________________________________________________________________________________________________
+  
+  
