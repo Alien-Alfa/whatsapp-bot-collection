@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=phaticusthiccy&repo=WhatsAsenaDuplicated)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=phaticusthiccy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 
 
@@ -77,7 +77,7 @@ ________________________________________________________________________________
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=JulieMwol)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=JulieMwol)](https://github.com/farhan-dqz/JulieMwol)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 __________________________________________________________________________________________________________________
@@ -95,7 +95,7 @@ ________________________________________________________________________________
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kappithannemo/WhatsAsenaDuplicated)
   
   
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/kappithannemo/WhatsAsenaDuplicated)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kappithannemo&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 _________________________________________________________________________________________________________________
@@ -114,7 +114,7 @@ ________________________________________________________________________________
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
   
   
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic)](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
   _________________________________________________________________________________________________________________
@@ -130,7 +130,7 @@ ________________________________________________________________________________
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/PublicBot.git:/)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot)](https://github.com/farhan-dqz/PublicBot)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 _________________________________________________________________________________________________________________
