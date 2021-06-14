@@ -46,7 +46,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________
 -->
   
-## Whatsasena Duplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
+## WhatsasenaDuplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
 <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/74794033?v=4" alt=""> </a></span>
 </div>
@@ -82,7 +82,7 @@ ________________________________________________________________________________
   
 __________________________________________________________________________________________________________________
   
-    ## Whatsasena Duplicated by [kappithannemo](https://github.com/kappithannemo)
+  ## WhatsasenaDuplicated by [kappithannemo](https://github.com/kappithannemo)
   
   <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78903191?v=4" alt=""> </a></span>
@@ -101,7 +101,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
   
   
-  ## Whatsasena Duplicated by [Toxic-Devil](https://github.com/TOXIC-DEVIL)
+  ## WhatsasenaPublic by [Toxic-Devil](https://github.com/TOXIC-DEVIL)
   
   <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
