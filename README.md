@@ -82,6 +82,25 @@ ________________________________________________________________________________
   
 __________________________________________________________________________________________________________________
   
+    ## Whatsasena Duplicated by [kappithannemo](https://github.com/kappithannemo)
+  
+  <div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78903191?v=4" alt=""> </a></span>
+</div>
+  
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/Tkappithannemo/WhatsAsenaPublic)](https://replit.com/@kappithannemo/WhatsAsena-QR)
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kappithannemo/WhatsAsenaDuplicated)
+  
+  
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kappithannemo&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+_________________________________________________________________________________________________________________
+  
+  
   ## Whatsasena Duplicated by [Toxic-Devil](https://github.com/TOXIC-DEVIL)
   
   <div align="left">
@@ -116,22 +135,6 @@ ________________________________________________________________________________
   
 _________________________________________________________________________________________________________________
 
-  ## Whatsasena Duplicated by [kappithannemo](https://github.com/kappithannemo)
-  
-  <div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78903191?v=4" alt=""> </a></span>
-</div>
-  
-### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/Tkappithannemo/WhatsAsenaPublic)](https://replit.com/@kappithannemo/WhatsAsena-QR)
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kappithannemo/WhatsAsenaDuplicated)
-  
-  
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/Alien-alfa/wabot-aq)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kappithannemo&show_icons=true&theme=nightowl" alt="Alien-alfa" />
-  
-_________________________________________________________________________________________________________________
   
   
