@@ -102,11 +102,6 @@ ________________________________________________________________________________
 <br>
 <br >
 
-### ANY DOUBT CLICK THE YOUTUBE LOGO👇🏻👇🏻  [WhiteDevil]
-  
-  
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://tinyurl.com/yjrwk2u6)
-
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=Whitedevil)](https://github.com/terror-boy/Whitedevil)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
