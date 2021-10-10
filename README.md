@@ -131,7 +131,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
   
   
-  ## WhatsasenaPublic by [Toxic-Devil](https://github.com/TOXIC-DEVIL)
+  ## WhatsAlexa by [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
   
   <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
@@ -139,12 +139,12 @@ ________________________________________________________________________________
   
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@TOXICDEVIL/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAlexa)
   
   
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAsenaPublic)](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=WhatsAlexa)](https://github.com/TOXIC-DEVIL/WhatsAlexa)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
   _________________________________________________________________________________________________________________
