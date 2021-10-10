@@ -108,7 +108,7 @@ ________________________________________________________________________________
  [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://tinyurl.com/yjrwk2u6)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=Whitedevil)](https://github.com/terror-boy/Whitedevil)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+<img align="center" width='100' height='100'  src= src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 __________________________________________________________________________________________________________________
   
