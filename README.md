@@ -45,6 +45,26 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________
 -->
+  ## Whatsapp-Bot by [lyfe00011](https://github.com/lyfe00011)
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/76509367?v=4" alt=""> </a></span>
+</div>
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=lyfe00011&repo=whatsapp-bot)](https://github.com/whatsapp-bot)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyfe00011&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+
+
+_______________________________________________________________________________________________________________
+
+
+
+
   
 ## WhatsasenaDuplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
 <div align="left">
