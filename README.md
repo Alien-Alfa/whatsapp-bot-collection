@@ -33,7 +33,7 @@
 
 
   
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Kq4KNqnDMM7AcX7JOuBwvf)
   
 _______________________________________________________________________________________________________________
 <!--
