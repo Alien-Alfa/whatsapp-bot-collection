@@ -1,7 +1,7 @@
 ## THERE ARE NO FILES HERE. JUST READ THIS README AND YOU WILL FIND YOUR ANSWERS
 
 <div align="center">
-  <img src="https://i.ibb.co/NxFN3q1/logo.jpg" width="200" height="200">
+  <img src="https://yt3.ggpht.com/8T2e-Oq9f8RxPujoMnBQBuTrO21Jd2GeZUlcWE_pOj6GAOr95qABksoxoCbxQcLeV8Rgp7aHBQ=s176-c-k-c0x00ffffff-no-rj" width="200" height="200">
   <h1>Albin Thomas</h1>
 </div>
 
