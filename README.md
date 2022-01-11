@@ -52,9 +52,9 @@ ________________________________________________________________________________
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alien-omega/lyfe00011B1)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=lyfe00011&repo=whatsapp-bot)](https://github.com/whatsapp-bot)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyfe00011&show_icons=true&theme=nightowl" alt="Alien-alfa" />
