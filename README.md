@@ -66,18 +66,18 @@ ________________________________________________________________________________
 
 
   
-## Riaz-sempai by [nexusNw](https://github.com/nexusNw)
+## Yuichan by [nexusNw](https://github.com/nexusNw)
 <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/88531428?v=4" alt=""> </a></span>
 </div>
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/nexusNw/Riaz-sempai)](https://replit.com/@nexusNw/Sempai?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/nexusNw/Riaz-sempai)](https://replit.com/@nexusNw/YuiChan)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nexusNw/Riaz-sempai)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mbo254/yui-deploy)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=nexusNw&repo=Riaz-sempai)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=nexusNw&repo=YuiChan)](https://github.com/nexusNw/YuiChan)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusNw&show_icons=true&theme=nightowl" alt="Alien-alfa" />
 
 
