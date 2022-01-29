@@ -147,6 +147,38 @@ ________________________________________________________________________________
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 __________________________________________________________________________________________________________________
+
+## WhiteDevil-UserBot by [Karthik_terror-boy](https://github.com/terror-boy)
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/85664936?v=4" alt=""> </a></span>
+</div>
+
+ ### Setup
+<div align="center">
+
+  #### <u> Simple Method <u>
+ **Step-1: Click on scan qr code and get asena code**
+  
+  [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@terror-boy/baileys-qr?v=1)
+  
+ **Step-2: Deploy To Heroku**
+  
+  [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?template=https://github.com/terror-boy/WhiteDevil-UserBot.git)
+     
+  
+ **Step 3: Turn on worker**
+
+<div align="center">
+<br>
+<br >
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil-UserBot)](https://github.com/terror-boy/WhiteDevil-UserBot)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=terror-boy&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+__________________________________________________________________________________________________________________
+
+
+
   
   ## WhatsasenaDuplicated by [kappithannemo](https://github.com/kappithannemo)
   
