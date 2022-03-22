@@ -96,7 +96,7 @@ ________________________________________________________________________________
 
 [![Run on Repl.it](https://repl.it/badge/github/Afx-Abu/JinuMwol?v=1)](https://replit.com/@Afx-Abu/JinuMwol?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinu-Xr/Jinu-Mwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://abu-ser.yolasite.com)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Jinu-Xr&repo=Jinu-Mwol)](https://github.com/Jinu-Xr/)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jinu-Xr&show_icons=true&theme=nightowl" alt="Alien-alfa" />
