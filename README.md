@@ -87,6 +87,26 @@ ________________________________________________________________________________
 
 
   
+## Jinu-Mwol by [Jinu-Xr](https://github.com/Jinu-Xr/)
+<div align="left">
+  <a href="https://github.com/Jinu-Xr/Jinu-Mwol"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/101920561?v=4" alt=""> </a></span>
+</div>
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/Afx-Abu/JinuMwol?v=1)](https://replit.com/@Afx-Abu/JinuMwol?v=1)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinu-Xr/Jinu-Mwol)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Jinu-Xr&repo=Jinu-Mwol)](https://github.com/Jinu-Xr/)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jinu-Xr&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+
+
+_______________________________________________________________________________________________________________
+
+
+
+  
 ## WhatsasenaDuplicated by [phaticusthiccy](https://github.com/phaticusthiccy)
 <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/74794033?v=4" alt=""> </a></span>
