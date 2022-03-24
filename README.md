@@ -66,6 +66,34 @@ ________________________________________________________________________________
 
 
   
+## Nandhutty V3 by [Ajmal-Achu](https://github.com/Ajmal-Achu)
+<div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://telegra.ph/file/9a951b2ec94a71ea6fb96.jpg" alt=""> </a></span>
+</div>
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty-V3)](https://github.com/Ajmal-Achu/Nandhutty-V3)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajmal-Achu&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+
+
+_______________________________________________________________________________________________________________
+
+
+
+
+  
+
+
+
+
+
+  
 ## Yuichan by [nexusNw](https://github.com/nexusNw)
 <div align="left">
   <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/88531428?v=4" alt=""> </a></span>
