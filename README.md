@@ -224,10 +224,15 @@ ________________________________________________________________________________
 ### Simple Method
 
 [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/Leon)](https://replit.com/@TOXICDEVIL/Leon)
-  
+
+### Heroku
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
-  
-  
+ 
+### Railway
+
+[![Deploy-Leon-Railway](https://railway.app/button.svg)](https://railway.app/new/template/e9CKXX?referralCode=ToxicDevil)
+
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Leon)](https://github.com/TOXIC-DEVIL/Leon)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
