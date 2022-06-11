@@ -61,7 +61,30 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________
+  
+  
+  ## Leon by [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
+  
+  <div align="left">
+  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
+</div>
+  
+### Simple Method
 
+[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/Leon)](https://replit.com/@TOXICDEVIL/Leon)
+
+### Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
+ 
+### Railway
+
+[![Deploy-Leon-Railway](https://railway.app/button.svg)](https://railway.app/new/template/e9CKXX?referralCode=ToxicDevil)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Leon)](https://github.com/TOXIC-DEVIL/Leon)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
+  
+  _________________________________________________________________________________________________________________
 
 
 
@@ -213,30 +236,7 @@ ________________________________________________________________________________
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kappithannemo&show_icons=true&theme=nightowl" alt="Alien-alfa" />
   
 _________________________________________________________________________________________________________________
-  
-  
-  ## Leon by [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
-  
-  <div align="left">
-  <a href="https://alien-alfa.github.io"><span class="avatar"><img width='100' height='100'  src="https://avatars.githubusercontent.com/u/78701752?v=4" alt=""> </a></span>
-</div>
-  
-### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/Leon)](https://replit.com/@TOXICDEVIL/Leon)
-
-### Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
- 
-### Railway
-
-[![Deploy-Leon-Railway](https://railway.app/button.svg)](https://railway.app/new/template/e9CKXX?referralCode=ToxicDevil)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Leon)](https://github.com/TOXIC-DEVIL/Leon)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-DEVIL&show_icons=true&theme=nightowl" alt="Alien-alfa" />
-  
-  _________________________________________________________________________________________________________________
   
   
 ## Public bot by [Farhan-dqz](https://github.com/farhan-dqz)
