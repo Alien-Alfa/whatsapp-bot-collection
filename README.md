@@ -61,6 +61,28 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________
+
+
+  ## Zero Two Md by [Sam Pandey](https://github.com/sampandey001)
+  
+<div align="left">
+  <a href="ZeroTwoMd.tech"><span class="avatar"><img width='100' height='100'  src="https://i.pinimg.com/originals/d1/b8/4d/d1b84d734786a38c5565b47aeb5e69dd.png" alt=""> </a></span>
+</div>
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://repl.it/@sampandey)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SamPandey001/Zero-Two-Md)
+
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=SamPandey001&repo=Zero-Two-Md)](https://github.com/whatsapp-bot)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamPandey001&show_icons=true&theme=nightowl" alt="SamPandey001" />
+
+
+_______________________________________________________________________________________________________________
   
   
   ## Leon by [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)
